@@ -33,3 +33,7 @@ Public and Private Split
 Test data is further randomly divided into Public (25%) and Private (75%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
 https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/
+
+
+My Raking 351/1343 - AUC Achieved - 0.6513669238 
+Highest AUC - 0.6703875341 ( https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb?page=1 )
